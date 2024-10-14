@@ -19,7 +19,7 @@ from database import Database
 
 BOT_USERNAME = Config.BOT_USERNAME
 BOT_TOKEN = Config.BOT_TOKEN
-API_ID = Config.API_ID
+API_ID = Config.26162072
 API_HASH = Config.API_HASH
 DB_CHANNEL = Config.DB_CHANNEL
 HOME_TEXT = Config.HOME_TEXT
