@@ -19,9 +19,9 @@ from database import Database
 
 BOT_USERNAME = Config.BOT_USERNAME
 BOT_TOKEN = Config.BOT_TOKEN
-API_ID = Config.API_ID
-API_HASH = Config.API_HASH
-DB_CHANNEL = Config.DB_CHANNEL
+API_ID = Config.26162072
+API_HASH = Config.ba25181c01b50d945748801b6c8b6ecc
+DB_CHANNEL = Config.mongodb+srv://j32025026:<db_diTBNy6AvTzCpOYi>@cluster0.mmcgi.mongodb.net/?retryWrites=true&w=majority
 HOME_TEXT = Config.HOME_TEXT
 UR_CHANNEL = Config.UR_CHANNEL
 UR_GROUP = Config.UR_GROUP
